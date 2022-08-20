@@ -1,0 +1,15 @@
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\bin\Debug\net6.0\CS_Test.exe
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\bin\Debug\net6.0\CS_Test.deps.json
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\bin\Debug\net6.0\CS_Test.runtimeconfig.json
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\bin\Debug\net6.0\CS_Test.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\bin\Debug\net6.0\CS_Test.pdb
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\obj\Debug\net6.0\CS_Test.csproj.AssemblyReference.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\obj\Debug\net6.0\CS_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\obj\Debug\net6.0\CS_Test.AssemblyInfoInputs.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\obj\Debug\net6.0\CS_Test.AssemblyInfo.cs
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\obj\Debug\net6.0\CS_Test.csproj.CoreCompileInputs.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\obj\Debug\net6.0\CS_Test.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\obj\Debug\net6.0\refint\CS_Test.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\obj\Debug\net6.0\CS_Test.pdb
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\obj\Debug\net6.0\CS_Test.genruntimeconfig.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_Test\obj\Debug\net6.0\ref\CS_Test.dll

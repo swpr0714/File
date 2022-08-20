@@ -1,0 +1,15 @@
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\bin\Debug\net6.0\CS_HW_nAmB.exe
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\bin\Debug\net6.0\CS_HW_nAmB.deps.json
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\bin\Debug\net6.0\CS_HW_nAmB.runtimeconfig.json
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\bin\Debug\net6.0\CS_HW_nAmB.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\bin\Debug\net6.0\CS_HW_nAmB.pdb
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\obj\Debug\net6.0\CS_HW_nAmB.csproj.AssemblyReference.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\obj\Debug\net6.0\CS_HW_nAmB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\obj\Debug\net6.0\CS_HW_nAmB.AssemblyInfoInputs.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\obj\Debug\net6.0\CS_HW_nAmB.AssemblyInfo.cs
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\obj\Debug\net6.0\CS_HW_nAmB.csproj.CoreCompileInputs.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\obj\Debug\net6.0\CS_HW_nAmB.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\obj\Debug\net6.0\refint\CS_HW_nAmB.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\obj\Debug\net6.0\CS_HW_nAmB.pdb
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\obj\Debug\net6.0\CS_HW_nAmB.genruntimeconfig.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_nAmB\obj\Debug\net6.0\ref\CS_HW_nAmB.dll

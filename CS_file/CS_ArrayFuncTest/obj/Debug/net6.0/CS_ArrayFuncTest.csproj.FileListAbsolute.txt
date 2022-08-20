@@ -1,0 +1,15 @@
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\bin\Debug\net6.0\CS_ArrayFuncTest.exe
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\bin\Debug\net6.0\CS_ArrayFuncTest.deps.json
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\bin\Debug\net6.0\CS_ArrayFuncTest.runtimeconfig.json
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\bin\Debug\net6.0\CS_ArrayFuncTest.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\bin\Debug\net6.0\CS_ArrayFuncTest.pdb
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\obj\Debug\net6.0\CS_ArrayFuncTest.csproj.AssemblyReference.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\obj\Debug\net6.0\CS_ArrayFuncTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\obj\Debug\net6.0\CS_ArrayFuncTest.AssemblyInfoInputs.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\obj\Debug\net6.0\CS_ArrayFuncTest.AssemblyInfo.cs
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\obj\Debug\net6.0\CS_ArrayFuncTest.csproj.CoreCompileInputs.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\obj\Debug\net6.0\CS_ArrayFuncTest.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\obj\Debug\net6.0\refint\CS_ArrayFuncTest.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\obj\Debug\net6.0\CS_ArrayFuncTest.pdb
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\obj\Debug\net6.0\CS_ArrayFuncTest.genruntimeconfig.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_ArrayFuncTest\obj\Debug\net6.0\ref\CS_ArrayFuncTest.dll

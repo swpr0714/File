@@ -1,0 +1,333 @@
+p{
+    font-family:monospace;
+}
+
+/* Header */
+
+.header{
+    width: 100%;
+    height: 75px;
+    display: flex;
+}
+.header img{
+    padding: 10px 10px;
+}
+
+/* Nav Bar */
+
+.nav{
+    width: 100%;
+    display: flex;
+}
+.nav p{
+    font-size: 20px;
+    line-height: 75px;
+    padding:0 20px;
+}
+.nav p:hover{
+    background-color: rgb(0,158,0);
+    color: #fff;
+}
+
+/* Buttons */
+
+.btn>p{
+    line-height: 25px;
+    margin: 20px 5px;
+    padding: 5px 30px;
+}
+.btn{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.btn>p{
+    font-size: 20px;
+    border-radius: 20px;
+}
+.btn i{
+    line-height: 75px;
+    padding: 0 15px;
+}
+.btn i:hover{
+    color: rgb(0,120,0)
+}
+.btn .pro{
+    height: 35px;
+    margin:auto 15px;
+    display: flex;
+    border-radius: 17px;
+}
+.btn .pro:hover{
+    background-color: rgb(0, 158, 0);
+}
+.btn .pro p{
+    font-size: 20px;
+    line-height: 35px;
+    padding: 0 15px;
+}
+.btn .pro #new{
+    background-color: #fff;
+    border-radius: 25px;
+    border: 1px solid #888;
+}
+.btn #get-certified{
+    background-color: #faa;
+    color: #fff;
+}
+.btn #get-certified:hover{
+    background-color: rgb(0, 120, 0);
+    color: #fff;
+}
+.btn #website:hover{
+    background-color: rgb(0, 158, 0);
+    color: #fff;
+}
+.btn #login{
+    background-color: rgb(0, 158, 0);
+    color: #fff;
+}
+.btn #login:hover{
+    background-color: rgb(0, 120, 0);
+    color: #fff;
+}
+
+/* Banner */
+
+.banner{
+    height: 500px;
+    width: 100%;
+    background-color: #282a35;
+    display: flex;
+    align-items: center;
+}
+.banner .center{
+    width: 100%;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.banner #Learn{
+    font-size: 48px;
+    text-align: center;
+    color: #fff;
+}
+.banner #With{
+    margin: 20px;
+    font-size: 24px;
+    text-align: center;
+    color: #faa;
+}
+.banner #Input{
+    margin: auto;
+}
+.banner #Input input{
+    width: 400px;
+    height: 50px;
+    padding-left: 25px;
+    border-radius:25px 0 0 25px;
+    border: 0px;
+    font-size: 20px;
+    margin: 0;
+}
+.banner #Input button{
+    margin: 0;
+    width: 120px;
+    height: 52px;
+    border-radius:0 25px 25px 0;
+    border: 0px;
+    font-size: 20px;
+    background-color: rgb(0,158,0);
+    color: #fff;    
+}
+.banner #Input button:hover{
+    background-color:rgb(0,120,0);
+}
+.banner a{
+    margin: 10px;
+    text-decoration: none;
+}
+.banner a p:hover{
+    color: rgb(0,120,0);
+    text-decoration-color: rgb(0,120,0);
+}
+.banner a p{
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+    text-decoration: underline;
+    text-decoration-color: #fff;
+    text-decoration-thickness: 2px;
+}
+
+/* Lang-HTML */
+
+.Lang-HTML{
+    height: 500px;
+    width: 100%;
+    background-color: #d9eee1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Lang-HTML .left{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    
+}
+.Lang-HTML .left p{
+    text-align: center;
+}
+.Lang-HTML .left .Lang{
+    font-size: 165px;
+}
+.Lang-HTML .left .Main{
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.Lang-HTML .left .btn{
+    display: block;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    border-radius:20px;
+    margin: 10px auto;
+}
+.Lang-HTML .left .A{
+    color: #fff;
+    background-color: #05aa6d;
+}
+.Lang-HTML .left .B{
+    color: #000;
+    background-color: #fff4a3;
+}
+.Lang-HTML .left .C{
+    color: #fff;
+    background-color: #282a35;
+}
+.Lang-HTML .left .D{
+    color: #000;
+    background-color: #ffc1c7;
+}
+.Lang-HTML .container{
+    height: 455px;
+    width: 610px;
+    background-color: #f0f0f0;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 0 0 150px;
+}
+.Lang-HTML .container .title{
+    font-size: 18px;
+    margin: 0px 20px 5px;
+}
+.Lang-HTML .content{
+    display: flex;
+    margin: 10px auto;
+    justify-content: center;
+}
+.Lang-HTML .content .line{
+    width: 5px;
+    height: 300px;
+    background-color: #05aa6d;
+} 
+.Lang-HTML .content .code{
+    width: 570px;
+    height: 290px;
+    padding: 5px;
+    background-color: #fff;
+}
+.Lang-HTML .btn p{
+    
+    width: 200px;
+    height: 44px;
+    border-radius: 22px;
+    line-height: 44px;
+    background-color: #05aa6d;
+}
+
+/* Lang-CSS */
+
+.Lang-CSS{
+    height: 500px;
+    width: 100%;
+    background-color: #d9eee1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Lang-CSS .left{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.Lang-CSS .left p{
+    text-align: center;
+}
+.Lang-CSS .left .Lang{
+    font-size: 165px;
+}
+.Lang-CSS .left .Main{
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.Lang-CSS .left .btn{
+    display: block;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    border-radius:20px;
+    margin: 10px auto;
+}
+.Lang-CSS .left .A{
+    color: #fff;
+    background-color: #05aa6d;
+}
+.Lang-CSS .left .B{
+    color: #000;
+    background-color: #fff4a3;
+}
+.Lang-CSS .left .C{
+    color: #fff;
+    background-color: #282a35;
+}
+.Lang-CSS .left .D{
+    color: #000;
+    background-color: #ffc1c7;
+}
+.Lang-CSS .container{
+    height: 455px;
+    width: 610px;
+    background-color: #f0f0f0;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 0 0 150px;
+}
+.Lang-CSS .container .title{
+    font-size: 18px;
+    margin: 0px 20px 5px;
+}
+.Lang-CSS .content{
+    display: flex;
+    margin: 10px auto;
+    justify-content: center;
+}
+.Lang-CSS .content .line{
+    width: 5px;
+    height: 300px;
+    background-color: #05aa6d;
+} 
+.Lang-CSS .content .code{
+    width: 570px;
+    height: 290px;
+    padding: 5px;
+    background-color: #fff;
+}

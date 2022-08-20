@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\oo508\\Downloads\\Github repositories\\File_store\\CS_file\\CS_ArrayFuncTest\\CS_ArrayFuncTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\oo508\\Downloads\\Github repositories\\File_store\\CS_file\\CS_ArrayFuncTest\\CS_ArrayFuncTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oo508\\Downloads\\Github repositories\\File_store\\CS_file\\CS_ArrayFuncTest\\CS_ArrayFuncTest.csproj",
+        "projectName": "CS_ArrayFuncTest",
+        "projectPath": "C:\\Users\\oo508\\Downloads\\Github repositories\\File_store\\CS_file\\CS_ArrayFuncTest\\CS_ArrayFuncTest.csproj",
+        "packagesPath": "C:\\Users\\oo508\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oo508\\Downloads\\Github repositories\\File_store\\CS_file\\CS_ArrayFuncTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\oo508\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\obj\Debug\net6.0\CS_HW_Array.csproj.AssemblyReference.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\obj\Debug\net6.0\CS_HW_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\obj\Debug\net6.0\CS_HW_Array.AssemblyInfoInputs.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\obj\Debug\net6.0\CS_HW_Array.AssemblyInfo.cs
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\obj\Debug\net6.0\CS_HW_Array.csproj.CoreCompileInputs.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\bin\Debug\net6.0\CS_HW_Array.exe
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\bin\Debug\net6.0\CS_HW_Array.deps.json
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\bin\Debug\net6.0\CS_HW_Array.runtimeconfig.json
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\bin\Debug\net6.0\CS_HW_Array.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\bin\Debug\net6.0\CS_HW_Array.pdb
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\obj\Debug\net6.0\CS_HW_Array.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\obj\Debug\net6.0\refint\CS_HW_Array.dll
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\obj\Debug\net6.0\CS_HW_Array.pdb
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\obj\Debug\net6.0\CS_HW_Array.genruntimeconfig.cache
+C:\Users\oo508\Downloads\Github repositories\File_store\CS_file\CS_HW_Array\obj\Debug\net6.0\ref\CS_HW_Array.dll

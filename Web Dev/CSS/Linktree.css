@@ -1,0 +1,66 @@
+*{
+
+}
+.main{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.header{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.logo{
+    padding: 20px;
+    width: 500px;
+    margin: 80px auto;
+    background-color: rgba(41, 166, 41, 0.63);
+    border-radius:100px;
+    
+}
+.logo img:hover{
+    transform: sclae(1.2,0.5);
+}
+.body{
+    width: 25%;
+    display:flex;
+    flex-wrap: wrap;
+    margin: auto;
+    position: relative;
+    
+}
+.bottom{
+    display:flex;
+    color: #fff;
+    background-color: rgba(41, 166, 41, 0.63);
+    text-decoration:none;
+    line-height: 60px;
+    font-size: 40px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 25px;
+    margin: 20px 0;
+    justify-content: center;
+    font-family:monospace;
+    transform:scale(1,1);
+    transition: all 0.1s ease-out;
+}
+.bottom:hover{
+    color: #aaa;
+    background-color: rgba(41, 166, 41, 0.5);
+    transform:scale(1.0,1.0);
+    margin: 20px 0 300px 0;
+}
+.about:hover::before{
+    position: absolute;
+    color: #fff;
+    top: 100px;
+    width: 100%;
+    font-size: .8em;
+    background: rgba(41, 166, 41, 0.63);
+    padding: 5px;
+    margin: 0 0 0 10px;
+    border-radius: 5px;
+    content: "台灣大學資訊管理學系大一新生。高三上時，交往2年半的女友跟中興的學長跑了，隨後暈了班上女同學，追求無果後選擇放棄，自暴自棄一陣子後導致學測成績炸裂，國英數A自僅得47級分";
+}

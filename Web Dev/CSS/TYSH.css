@@ -1,0 +1,234 @@
+.header{
+    width: 80%;
+    display: flex;
+    flex-wrap:wrap;
+    margin: 0 auto 0 auto;
+    position: relative;
+}
+.header .empty{
+    display: block;
+    width: 100%;
+    height: 65px;
+    background-color: rgb(41, 9, 106);
+
+}
+
+.header hr{
+    border-top: 1px solid;
+    margin: 0;
+    width: 100%;
+    color: #888;
+    background-color: rgb(41, 9, 106);
+    position: relative;
+}
+.header .nav {
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(41, 9, 106);
+}
+.header .nav a{
+    text-decoration: none;
+    color: #fff;
+    line-height:35px;
+    font-size: 14px;
+}
+.header .nav a:hover{
+    text-decoration: none;
+    color: #ff5;
+    line-height:35px;
+    font-size: 14px;
+}
+.picture{
+    width: 60%;
+    /* height: 600px; */
+    margin: auto;
+
+}
+.picture img{
+    margin-top: 10px;
+    margin-bottom: 25px;
+    width: 100%;
+    border-radius: 10px;
+}
+.banner{
+    margin: auto;
+    width: 60%;
+}
+.banner marquee{
+    background-color: #2fd;
+    line-height:50px;
+    color: #40f;
+    position: relative;
+}
+.banner marquee b a {
+    text-decoration: none;
+}
+.middle{
+    width: 58%;
+    display: flex;
+    margin: auto;
+    
+}
+.middle .left{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+.middle .left a{
+    background-color: #ccc;
+    line-height:50px;
+    padding: 7.5px 25%;
+    margin: 10px 15% 10px 0;
+    text-decoration: none;
+}
+.middle .right{
+    margin-top:10px;
+    width: 85%;
+    /* background-color: #fea; */
+    /* border: 1px solid #aaa; */
+}
+.middle .right .btn{
+    margin:0;
+    display: flex;
+}
+.middle .right .btn button{
+    width: 12%;
+}
+.middle .right .top{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    /* background-color: #ccc; */
+    
+}
+.middle .right .top .image{
+    width: 60%;
+    height: 100px;
+    background-color: #fff;
+}
+.middle .right .top .func{
+    width: 40%;
+    height: 100px;
+    display: flex;
+    /* background-color: rgb(184, 155, 155); */
+}
+.middle .right .top .func p{
+    line-height: 100px;
+    margin-left: 30px;
+}
+.middle .right .top .func select{
+    height: 25%;
+    margin: auto 5px auto 5px;
+}
+.middle .right .top .func input{
+    height: 20%;
+    margin: auto 5px auto 5px;
+    
+}
+.middle .right .top .func button{
+    height: 25%;
+    margin: auto 5px auto 5px;
+}
+.middle .right .table{
+    width: 100%;
+    border: 1px solid;
+}
+.middle .right .table tr{
+    width: 100%;
+    background-color: #ccc;
+    height: 30px;
+    display: flex;
+}
+.middle .right .table a {
+    text-decoration: none;
+    line-height:30px;
+    color:rgb(41, 9, 106)
+}
+
+.table .title{
+    width: 95%;
+    height: 30px;
+    display:flex;
+    margin: 20px auto 10px auto;
+    background-color: #fff;
+}
+.table .a{
+    width: 15%;
+    line-height: 30px;
+    background-color: #fff;
+    text-align: center;
+}
+.table .b{
+    width: 60%;
+    line-height: 30px;
+    background-color: #fff;
+    text-align: center;
+}
+.table .c{
+    width: 20%;
+    line-height: 30px;
+    background-color: #fff;
+    text-align: center;
+}
+.table .d{
+    width: 5%;
+    line-height: 30px;
+    background-color: #fff;
+    text-align: center;
+}
+.table .news1{
+    width: 100%;
+    display: flex;
+    background-color: #fff;   
+}
+.table .news2{
+    width: 100%;
+    display: flex;
+    background-color: #fff;   
+}
+.table .news3{
+    width: 100%;
+    display: flex;
+    background-color: #fff;   
+}
+.table .news4{
+    width: 100%;
+    display: flex;
+    background-color: #fff;   
+}
+.table .news5{
+    width: 100%;
+    display: flex;
+    background-color: #fff;   
+}
+.table .news6{
+    width: 100%;
+    display: flex;
+    background-color: #fff;   
+}
+.table .news7{
+    width: 100%;
+    display: flex;
+    background-color: #fff;   
+}
+.table .btn{
+    display: flex;
+}
+.table .btn .tailL{
+    width: 60%;
+    height: 30px;
+    background-color: #fea;
+}
+.table .btn .tailR{
+    width: 40%;
+    height: 30px;
+    background-color: #faa;
+}
+.table .btn button{
+    width: 25%;
+    height: 20px;
+    margin: 5px 0px 5px 15px;
+}
+

@@ -1,0 +1,40 @@
+img{
+    width: 100%;
+}
+
+h1{
+    line-height: 45px;
+    font-size: 45px;
+    text-align: center;
+    margin: 20px;
+}
+
+h1:hover{
+    color:blue;
+}
+a{
+    width: 100%;
+    text-decoration: none;
+}
+a h1{
+    color: #000;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.container{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fea;
+    padding: 25px;
+    margin: auto;
+}
+
+.body{
+    width: 100%;
+    flex-wrap: wrap;
+}
