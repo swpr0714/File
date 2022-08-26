@@ -1,10 +1,11 @@
-*{
+/* PC */
 
+*{
+    box-shadow: 0 0 0 1px red;
+    min-width: 540px;
 }
 .main{
     width: 100%;
-    display: flex;
-    flex-wrap: wrap;
 }
 .header{
     width: 100%;
@@ -14,14 +15,36 @@
 .logo{
     padding: 20px;
     width: 500px;
-    margin: 80px auto;
+    margin: 80px auto 20px;
     background-color: rgba(41, 166, 41, 0.63);
     border-radius:100px;
     
 }
-.logo img:hover{
-    transform: sclae(1.2,0.5);
+
+.text{
+    line-height: 30px;
+    font-size: 30px;
+    
+    text-align: center;
 }
+.text p{
+    font-family:monospace;
+    width: 25%;
+    min-width: 640px;
+    margin: 0 auto 0 auto;
+    padding: 10px 0 10px 0;
+    background-color: rgba(41, 166, 41, 0.63);
+    color: #fff;
+}
+.a{
+    border-radius:25px 25px 0 0;
+}
+.b{
+    border-radius:0 0 25px 25px;
+}
+
+
+
 .body{
     width: 25%;
     display:flex;
@@ -40,27 +63,90 @@
     padding: 10px;
     width: 100%;
     border-radius: 25px;
-    margin: 20px 0;
+    margin: 15px 0 20px 0;
     justify-content: center;
     font-family:monospace;
     transform:scale(1,1);
     transition: all 0.1s ease-out;
+    min-width: none;
 }
 .bottom:hover{
     color: #aaa;
     background-color: rgba(41, 166, 41, 0.5);
     transform:scale(1.0,1.0);
-    margin: 20px 0 300px 0;
+    margin: 15px 0 70px 0;
+}
+.about:hover{
+    margin: 15px 0 425px 0;
 }
 .about:hover::before{
     position: absolute;
-    color: #fff;
+    color: #888;
     top: 100px;
     width: 100%;
     font-size: .8em;
-    background: rgba(41, 166, 41, 0.63);
+    background: rgba(41, 166, 41, 0.3);
     padding: 5px;
     margin: 0 0 0 10px;
-    border-radius: 5px;
-    content: "台灣大學資訊管理學系大一新生。高三上時，交往2年半的女友跟中興的學長跑了，隨後暈了班上女同學，追求無果後選擇放棄，自暴自棄一陣子後導致學測成績炸裂，國英數A自僅得47級分";
+    border-radius: 10px;
+    content: "台大管院大一新生。高三上時交往2年半的女友跟中興的學長跑了，隨後暈了班上女同學，追求無果後選擇放棄，自暴自棄導致學測成績炸裂，國英數A自僅得47級分，最後在分科測驗翻身考上台灣大學";
 }
+
+.IG:hover{
+    margin: 15px 0 90px 0;
+}
+.IG:hover::before{
+    position: absolute;
+    color: #888;
+    top: 100px;
+    width: 100%;
+    font-size: .8em;
+    background: rgba(41, 166, 41, 0.3);
+    padding: 5px;
+    margin: 0 0 0 10px;
+    border-radius: 10px;
+    content: "https://www.instagram.com";
+    text-align: center;
+}
+.FB:hover{
+    margin: 15px 0 90px 0;
+}
+.FB:hover::before{
+    position: absolute;
+    color: #888;
+    top: 100px;
+    width: 100%;
+    font-size: .8em;
+    background: rgba(41, 166, 41, 0.3);
+    padding: 5px;
+    margin: 0 0 0 10px;
+    border-radius: 10px;
+    content: "https://www.facebook.com";
+    text-align: center;
+}
+.Git:hover{
+    margin: 15px 0 90px 0;
+}
+.Git:hover::before{
+    position: absolute;
+    color: #888;
+    top: 100px;
+    width: 100%;
+    font-size: .8em;
+    background: rgba(41, 166, 41, 0.3);
+    padding: 5px;
+    margin: 0 0 0 10px;
+    border-radius: 10px;
+    content: "https://github.com";
+    text-align: center;
+}
+/* PC */
+
+
+/* Mobile */
+@media screen and (min-width: 768px) {
+    
+}
+/* Mobile */
+
+
