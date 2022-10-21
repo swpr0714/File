@@ -1,0 +1,15 @@
+from math import *
+t=0
+dt=0.001
+pos = [-29*sin(pi/180*5),-29*cos(pi/180*5)]
+v = [4.5*cos(pi/180*40),4.5*sin(pi/180*40)]
+acc = [-1.9*cos(pi/180*20),-1.9*sin(pi/180*20)]
+
+while(t<5):
+    pos[0]+=v[0]*dt
+    pos[1]+=v[1]*dt
+    v[0]+=acc[0]*dt
+    v[1]+=acc[1]*dt
+    t+=dt
+print(pos)
+print(v)
